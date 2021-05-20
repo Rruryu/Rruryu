@@ -1,5 +1,5 @@
 ### My Profile 🐲
-
+趣味用のGithubアカウントです。（仕事では使っていません)
 ## My Stats
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=rruryu&count_private=true&show_icons=true" />
@@ -9,6 +9,5 @@
 </a><br>
 
 ## GitHub Activities
-このアカウントは仕事では使っていません
 <img src="https://grass-graph.moshimo.works/images/rruryu.png" />
 
