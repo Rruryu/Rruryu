@@ -1,8 +1,9 @@
 ### My Profile 🐲
 
-<img align="left" src="https://grass-graph.moshimo.works/images/rruryu.png" />
+<img align="center" src="https://grass-graph.moshimo.works/images/rruryu.png" />
 <br />
 開業  
+
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=rruryu&count_private=true&show_icons=true" />
 </a>
