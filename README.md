@@ -8,6 +8,7 @@
     <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=rruryu&layout=compact&hide=ASP,shaderlab,tex&langs_count=8" />
 </a><br>
 
-## test
-<img align="left" src="https://grass-graph.moshimo.works/images/rruryu.png" />
+## GitHub Activities
+このアカウントは仕事では使っていません
+<img src="https://grass-graph.moshimo.works/images/rruryu.png" />
 
