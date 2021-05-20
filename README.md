@@ -12,7 +12,7 @@
 <img src="https://grass-graph.moshimo.works/images/rruryu.png" />
 
 
-## URL
-[CodeSnipets](https://snippets.cacher.io/user/Rruryu)
-[Codepen](https://codepen.io/rruryu)
-[Blog](https://awesome-leavitt-53aaf7.netlify.app/)
+## Links
+- [CodeSnipets](https://snippets.cacher.io/user/Rruryu)
+- [Codepen](https://codepen.io/rruryu)
+- [Blog](https://awesome-leavitt-53aaf7.netlify.app/)
