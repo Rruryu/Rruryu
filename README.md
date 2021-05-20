@@ -1,5 +1,5 @@
 ### My Profile 🐲
-趣味用のGithubアカウントです。
+趣味用のGithubアカウントです。  
 草をもっとはやしていきたい 🌱 🌱 🌱
 
 ## My Stats
