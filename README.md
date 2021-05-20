@@ -1,6 +1,6 @@
 ### My Profile 🐲
 趣味用のGithubアカウントです。
-草をもっとはやしていきたい👾👾👾
+草をもっとはやしていきたい 🌱 🌱 🌱
 
 ## My Stats
 <a href="https://github.com/anuraghazra/github-readme-stats">
