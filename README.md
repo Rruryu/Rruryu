@@ -17,6 +17,4 @@
 
 
 ## リンク
-- [CodeSnipets](https://snippets.cacher.io/user/Rruryu)
-- [Codepen](https://codepen.io/rruryu)
 - [Blog](https://awesome-leavitt-53aaf7.netlify.app/)
