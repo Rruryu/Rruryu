@@ -12,9 +12,6 @@
     <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=rruryu&layout=compact&hide=ASP,shaderlab,tex&langs_count=8" />
 </a><br>
 
-## GitHub アクティビティ
-<img src="https://grass-graph.moshimo.works/images/rruryu.png" />
-
 
 ## リンク
 - [Blog](https://awesome-leavitt-53aaf7.netlify.app/)
