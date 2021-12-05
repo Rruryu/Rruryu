@@ -14,4 +14,4 @@
 
 
 ## リンク
-- [Blog](https://awesome-leavitt-53aaf7.netlify.app/)
+- [Blog](https://game-enginner-writes.netlify.app)
