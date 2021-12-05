@@ -1,6 +1,6 @@
 ## プロフィール
 趣味用のGithubアカウントです。  
-草をもっとはやしていきたい 🌱 🌱 🌱
+無理なく草をはやしています 🌱 🌱 🌱
 
 ## Githubステータス
 <a href="https://github.com/anuraghazra/github-readme-stats">
