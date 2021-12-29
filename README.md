@@ -17,8 +17,9 @@
 | ------------------------- | ---------------------------------------- | 
 | sample-project            | ブログ解説用に作ったプロジェクト         | 
 | practice-project          | 個人的な練習用プロジェクト               | 
-| tool-project              | 他の人に使ってもらうためのプロジェクト   | 
-| github-actions-project    | GitHub Actionsが稼働しているプロジェクト | 
+| tool-project              | 他の人に使ってもらうためのツールプロジェクト   | 
+| github-actions   | GitHub Actionsが稼働しているプロジェクト | 
+| github-pages   | GitHub Pagesが稼働しているプロジェクト | 
 | old-project               | メンテナンスしていない古いプロジェクト   | 
 | sterter-project           | よく使うものを予め詰め込んだプロジェクト | 
 | forked-repo               | フォークしてきたレポジトリ               | 
