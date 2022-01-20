@@ -1,7 +1,5 @@
 ## プロフィール
 趣味用のGithubアカウントです。  
-無理なく草をはやしています 🌱
--> メールアドレスが古いままだったため、2022/01/19から走り直します🏃‍♂️💨
 
 ## Githubステータス
 <a href="https://github.com/anuraghazra/github-readme-stats">
