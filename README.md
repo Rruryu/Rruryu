@@ -25,4 +25,5 @@
 | unity,gatsby,react....etc | 使用しているフレームワーク               | 
 
 ## リンク集
-- [Blog](https://game-enginner-writes.netlify.app)
+- [旧Blog(Gatsby製)](https://game-enginner-writes.netlify.app)
+- [新Blog(Next製)](https://went5-blog.com/)
